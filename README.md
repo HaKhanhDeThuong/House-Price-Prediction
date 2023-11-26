@@ -1,5 +1,5 @@
 ## House-Price-Prediction
-Welcome to the House Price Prediction project! This project involves web scraping data from a real estate website, processing the data, and utilizing it to predict house prices. The goal is to create a model that can provide accurate predictions based on the collected information.
+Welcome to the House Price Prediction project! This project involves web scraping data from a real estate website, processing the data, and utilizing it to predict house prices. The goal is to use multiple models and choose which model is best in providing accurate predictions based on the collected information.
 
 ## Overview
 
